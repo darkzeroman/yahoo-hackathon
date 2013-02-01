@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<meta charset="utf-8">
+		<title>XKCD Pro-Regress Bar</title>
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="description" content="">
+		<meta name="author" content="">
+
+		<!-- Le styles -->
+		<link href="bootstrap/css/bootstrap.css" rel="stylesheet">
+		<style>
+			body {
+				padding-top: 60px;
+				/* 60px to make the container go all the way to the bottom of the topbar */
+			}
+		</style>
+		<link href="bootstrap/css/bootstrap-responsive.css" rel="stylesheet">
+
+		<!-- Le HTML5 shim, for IE6-8 support of HTML5 elements -->
+		<!--[if lt IE 9]>
+		<script src="//html5shim.googlecode.com/svn/trunk/html5.js"></script>
+		<![endif]-->
+
+		<!-- Le fav and touch icons -->
+		<link rel="shortcut icon" href="images/favicon.ico">
+		<link rel="apple-touch-icon" href="images/apple-touch-icon.png">
+		<link rel="apple-touch-icon" sizes="72x72" href="images/apple-touch-icon-72x72.png">
+		<link rel="apple-touch-icon" sizes="114x114" href="images/apple-touch-icon-114x114.png">
+		<link href="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/themes/base/jquery-ui.css" rel="stylesheet" type="text/css"/>
+		<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.min.js"></script>
+		<script src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8/jquery-ui.min.js"></script>
+		<script src="http://curvycorners.googlecode.com/svn/tags/2.0.x/stable/2.0.4/curvycorners.js"></script>
+		<script src="script.js"></script>
+		<style type="text/css">
+			.rounded {
+				border-radius:3ex;
+				-webkit-border-radius:3ex;
+				-moz-border-radius:3ex;
+			}
+		</style>
+	</head>
+	<body>
+
+		<div class="navbar navbar-fixed-top">
+			<div class="navbar-inner">
+				<div class="container">
+					<a class="btn btn-navbar" data-toggle="collapse" data-target=".nav-collapse">
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					<span class="icon-bar"></span>
+					</a>
+					<a class="brand" href="#">XKCD Backward In Time</a>
+					<p class="brand pull-right" style="float:right">
+						By: Vidhur Vohra
+					</p>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<br>
+			<div class="progress progress-danger
+			progress-striped active">
+				<div class="bar"
+				style="width: 0%;">
+				</div>
+			</div>
+			<!--used for debugging <div id="year" style="height:75px">
+			</div>-->
+			<center>
+				<div>
+					<p>
+						Enter Seconds/Percent To Progress For:
+					</p>
+					<input type="text" class="input-small" id="input01" style="margin-bottom: 2;" value="seconds" onclick="this.value=''">
+					<button class="btn" href="#" style="margin-bottom: 10px;">
+						Enter!
+					</button>
+				</div>
+				<a href="http://xkcd.com/1017/"> Link XKCD Comic Here!</a>
+			</center>
+			<div id="box" style="height:300px;width:500px; border-style:solid;border-width:5px;margin: 0px auto;" class="rounded hero-unit">
+				<div id="percentage" style="float: left; width: 200px; font-size:large" class="rounded">
+					Percentage
+				</div>
+				<div id="date" style="float: right; width: 280px;font-size:large">
+					Date
+				</div>
+				<br />
+				<br>
+				<p>
+					<u>
+						<b>Around this time:</b>
+					</u>
+				</p>
+				<br />
+				<div id="event" style="font-size:large">
+					Event
+				</div>
+			</div>
+		</div> <!-- /container -->
+		<div style="clear: both;">
+		</div>
+	</body>
+</html>

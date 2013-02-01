@@ -1,0 +1,507 @@
+[
+	{
+		"Percent": "0",
+		"Date": "21:44:43",
+		"Details": "Now"
+	},
+	{
+		"Percent": "0.01",
+		"Date": "18:09:47",
+		"Details": "Breakfast"
+	},
+	{
+		"Percent": "0.02",
+		"Date": "2012/02/07",
+		"Details": "Santorum wins three caucuses"
+	},
+	{
+		"Percent": "0.03",
+		"Date": "2012/02/05",
+		"Details": "Romney wins Nevada"
+	},
+	{
+		"Percent": "0.04",
+		"Date": "2012/02/01",
+		"Details": "Romney wins Florida, Concordia divers quit search"
+	},
+	{
+		"Percent": "0.05",
+		"Date": "2012/01/23",
+		"Details": "Joe Paterno dies, Gabrielle Giffords resigns, SOPA/PIPA protests effective"
+	},
+	{
+		"Percent": "0.06",
+		"Date": "2012/01/14",
+		"Details": "Costa Concordia runs aground, Gingrich declines in polls"
+	},
+	{
+		"Percent": "0.07",
+		"Date": "2011/12/19",
+		"Details": "Kim Jong-Il dies, US troops leave Iraq"
+	},
+	{
+		"Percent": "0.08",
+		"Date": "2011/11/30",
+		"Details": "Gingrich passes Romney in polls, crackdown in Syria turns violent"
+	},
+	{
+		"Percent": "0.09",
+		"Date": "2011/10/28",
+		"Details": "Herman Cain tops polls, Gaddafi killed"
+	},
+	{
+		"Percent": "0.1",
+		"Date": "2011/09/17",
+		"Details": "Lybian Rebels advance on Sirte"
+	},
+	{
+		"Percent": "0.11",
+		"Date": "2011/07/28",
+		"Details": "Phone hacking scandal breaks, Norway massacre"
+	},
+	{
+		"Percent": "0.12",
+		"Date": "2011/05/28",
+		"Details": "Osama bin Laden killed, Iceland volcano erupts"
+	},
+	{
+		"Percent": "0.13",
+		"Date": "2011/03/16",
+		"Details": "Japan tsunami"
+	},
+	{
+		"Percent": "0.14",
+		"Date": "2010/12/20",
+		"Details": "Tea party sweep"
+	},
+	{
+		"Percent": "0.15",
+		"Date": "2010/09/11",
+		"Details": "Wikileaks posts state department cables"
+	},
+	{
+		"Percent": "0.16",
+		"Date": "2010/05/18",
+		"Details": "iPad released, health care reform law passed"
+	},
+	{
+		"Percent": "0.17",
+		"Date": "2010/01/04",
+		"Details": "Haiti, Ft. Hood, Michael Jackson"
+	},
+	{
+		"Percent": "0.18",
+		"Date": "2009/08/04",
+		"Details": "Green revolution, swine flu"
+	},
+	{
+		"Percent": "0.19",
+		"Date": "2009/02/11",
+		"Details": "Obama inaugurated, Tea party forms"
+	},
+	{
+		"Percent": "0.2",
+		"Date": "2008/07/28",
+		"Details": "Obama beats Clinton, financial system collapses"
+	},
+	{
+		"Percent": "0.21",
+		"Date": "2007/12/16",
+		"Details": "Mortgage crisis, last Harry Potter book"
+	},
+	{
+		"Percent": "0.22",
+		"Date": "2007/04/07",
+		"Details": "Virginia Tech massacre, iPhone"
+	},
+	{
+		"Percent": "0.23",
+		"Date": "2006/06/25",
+		"Details": "Gas above $4.00, Democrats poised to win House and Senate"
+	},
+	{
+		"Percent": "0.24",
+		"Date": "2005/08/07",
+		"Details": "Hurricane Katrina, Terri Schiavo"
+	},
+	{
+		"Percent": "0.25",
+		"Date": "2004/08/09",
+		"Details": "Bird flu panic, tsunami, Facebook, Mars rovers"
+	},
+	{
+		"Percent": "0.26",
+		"Date": "2003/06/28",
+		"Details": "Iraq invaded, same-sex marriage legalized in MA"
+	},
+	{
+		"Percent": "0.27",
+		"Date": "2002/03/26",
+		"Details": "9/11, Afghanistan"
+	},
+	{
+		"Percent": "0.28",
+		"Date": "2000/10/24",
+		"Details": "Bush/Gore election, Google, Segway, Windows XP"
+	},
+	{
+		"Percent": "0.29",
+		"Date": "1999/03/21",
+		"Details": "Clinton impeached/acquitted, Columbine massacre, The Matrix"
+	},
+	{
+		"Percent": "0.3",
+		"Date": "1997/06/02",
+		"Details": "Princess Diana dies"
+	},
+	{
+		"Percent": "0.31",
+		"Date": "1995/05/22",
+		"Details": "OJ Simpson trial, Windows 95"
+	},
+	{
+		"Percent": "0.32",
+		"Date": "1993/02/01",
+		"Details": "Clinton inaugurated"
+	},
+	{
+		"Percent": "0.33",
+		"Date": "1990/06/26",
+		"Details": "Soviet Union collapses, Tiananmen Square, Gulf War"
+	},
+	{
+		"Percent": "0.34",
+		"Date": "1987/07/11",
+		"Details": "Challenger, Pan Am Flight 103, Iran-Contra"
+	},
+	{
+		"Percent": "0.35",
+		"Date": "1984/02/27",
+		"Details": "Reagan crushes Mondale, Macintosh introduced, I'm born"
+	},
+	{
+		"Percent": "0.36",
+		"Date": "1980/04/25",
+		"Details": "Mt. St. Helens, AIDS, PCs, Empire Strikes Back"
+	},
+	{
+		"Percent": "0.37",
+		"Date": "1975/12/02",
+		"Details": "Watergate, Roe v. Wade, Microsoft, Ebola, Elvis dies"
+	},
+	{
+		"Percent": "0.38",
+		"Date": "1970/11/16",
+		"Details": "Moon landing, Kent State, Nixon"
+	},
+	{
+		"Percent": "0.39",
+		"Date": "1965/01/24",
+		"Details": "Civil rights, Kennedy shot, Six Day War"
+	},
+	{
+		"Percent": "0.4",
+		"Date": "1958/05/11",
+		"Details": "Elvis, velcro, Great Leap Forward, Castro, Cuban missiles"
+	},
+	{
+		"Percent": "0.41",
+		"Date": "1950/08/01",
+		"Details": "DNA, Stalin dies, Color TV, Polio vaccine, Elizabeth"
+	},
+	{
+		"Percent": "0.42",
+		"Date": "1941/07/14",
+		"Details": "Pearl Harbor, World War II, Manhattan Project"
+	},
+	{
+		"Percent": "0.43",
+		"Date": "1930/12/19",
+		"Details": "Great Depression, Dust Bowl, Hitler, Prohibition ends, Babe Ruth"
+	},
+	{
+		"Percent": "0.44",
+		"Date": "1918/07/28",
+		"Details": "Chaplin, Titanic, Russian Revolution"
+	},
+	{
+		"Percent": "0.45",
+		"Date": "1903/12/22",
+		"Details": "Flight, movies, Relativity, New York subway, San Francisco earthquake"
+	},
+	{
+		"Percent": "0.46",
+		"Date": "1886/09/12",
+		"Details": "telephones, Krakatoa, machine guns, cars, RADAR, coke, movie cameras"
+	},
+	{
+		"Percent": "0.47",
+		"Date": "1866/03/03",
+		"Details": "Civil War, Lincoln shot, dynamite invented"
+	},
+	{
+		"Percent": "0.48",
+		"Date": "1841/08/28",
+		"Details": "Wrenches, vulcanized rubber, bicycle, stamps, US I.R."
+	},
+	{
+		"Percent": "0.49",
+		"Date": "1812/03/28",
+		"Details": "Photos, War of 1812, cement, battery, machine tools, Waterloo"
+	},
+	{
+		"Percent": "0.5",
+		"Date": "1776/10/01",
+		"Details": "American and French revolutions, Haiti rebellion, Industrial Revolution, Napoleon"
+	},
+	{
+		"Percent": "0.51",
+		"Date": "1733/09/23",
+		"Details": "First Great Awakening, Enlightenment, Qianlong Emperor expansion, Enlightenment"
+	},
+	{
+		"Percent": "0.52",
+		"Date": "1681/04/11",
+		"Details": "Newton's Principia, Ming Dynasty collapses, Great Turkish War, Salem witch trials"
+	},
+	{
+		"Percent": "0.53",
+		"Date": "1616/12/26",
+		"Details": "Logarithms, Kepler, 30 Years' War, Plymouth Rock, Jamestown, Shakespeare"
+	},
+	{
+		"Percent": "0.54",
+		"Date": "September 13, 1537",
+		"Details": "Reformation, Columbian Exchange, Copernicus, Sack of Rome, Cortés, Pizarro"
+	},
+	{
+		"Percent": "0.55",
+		"Date": "June 2, 1439",
+		"Details": "Agincourt, Joan of Arc, end of Byzantine Empire, Moctezuma I, printing press, Zheng He"
+	},
+	{
+		"Percent": "0.56",
+		"Date": "October 25, 1316",
+		"Details": "Tenochtitlan, Renaissance, Chaucer, Lake Poyang, Ming dynasty, Black Death"
+	},
+	{
+		"Percent": "0.57",
+		"Date": "December 7, 1162",
+		"Details": "Mongol empire, explosive weapons, windmills, compass, Crusades"
+	},
+	{
+		"Percent": "0.58",
+		"Date": "July 27, 0968",
+		"Details": "Classical China and Islam, gunpowder, zero invented, moveable type, Mayan collapse"
+	},
+	{
+		"Percent": "0.59",
+		"Date": "July 4, 0721",
+		"Details": "Muslim conquests, Constantinople flourished, Beowulf composed, Tang Dynasty, Viking raids"
+	},
+	{
+		"Percent": "0.6",
+		"Date": "May 16, 0405",
+		"Details": "Teotihuacan, collapse of western Roman Empire, vandals, Atilla the Hun, Christianity"
+	},
+	{
+		"Percent": "0.61",
+		"Date": "1 BC",
+		"Details": "Roman Empire, Jesus, Pyramid of the Son, London, Pompeii"
+	},
+	{
+		"Percent": "0.62",
+		"Date": "530 BC",
+		"Details": "Rome founded, Roman Republic, Battle of Thermopylae, corn, Mexican writing, Alexander"
+	},
+	{
+		"Percent": "0.63",
+		"Date": "1220 BC",
+		"Details": "Egypt conquers Nubia, Exodus, Judaism, Athens, Classical Greece, wheel, ironsmithing, alphabet"
+	},
+	{
+		"Percent": "0.64",
+		"Date": "2127 BC",
+		"Details": "Ancient Egypt, pyramids, Ur, Bristlecone pine Methusaleh, chariots, Stonehenge"
+	},
+	{
+		"Percent": "0.65",
+		"Date": "3329 BC",
+		"Details": "Otzi, Sumerian language, Minoans, silk, pottery, copper, bronze, dams, harps, Mayan day zero"
+	},
+	{
+		"Percent": "0.66",
+		"Date": "4934 BC",
+		"Details": "Mesopotamia, wheel, copper, first cities, animal husbandry, menhirs, beer, maize"
+	},
+	{
+		"Percent": "0.67",
+		"Date": "7093 BC",
+		"Details": "England separated, Norway megatsunami, wine, Jericho, cows, metal ornaments, agriculture"
+	},
+	{
+		"Percent": "0.68",
+		"Date": "12,000 years ago",
+		"Details": "Ice withdraws, Clovis culture, people settling into permanent locations, domestic reindeer"
+	},
+	{
+		"Percent": "0.69",
+		"Date": "16,000 years ago",
+		"Details": "Last glacial maximum, land bridge blocked by ice, permafrost/ice cover Europe, ice sheets in Tibet"
+	},
+	{
+		"Percent": "0.7",
+		"Date": "22,000 years ago",
+		"Details": "Nets, dogs domesticated, recent glacial advance starts, Neanderthals go extinct, wall paintings, Japan colonized"
+	},
+	{
+		"Percent": "0.71",
+		"Date": "29,000 years ago",
+		"Details": "Ceramic art, bow and arrow, spear thrower, lunar calendars, first known shaman"
+	},
+	{
+		"Percent": "0.72",
+		"Date": "40,000 years ago",
+		"Details": "Humans colonize colder areas, tools spread into Europe, Cro-Magnon, people in Australia"
+	},
+	{
+		"Percent": "0.73",
+		"Date": "55,000 years ago",
+		"Details": "Big increase in diversity of artifacts, better stone tools, settlements, flint tools, art"
+	},
+	{
+		"Percent": "0.74",
+		"Date": "76,000 years ago",
+		"Details": "Fishing in Congo, behavioral modernity, bone tools, Homo sapiens spreads"
+	},
+	{
+		"Percent": "0.75",
+		"Date": "107,000 years ago",
+		"Details": "First Homo sapiens expeditions out of Africa"
+	},
+	{
+		"Percent": "0.76",
+		"Date": "152,000 years ago",
+		"Details": "Homo sapiens evolves, Mitochondrial Eve and Y-Chromosomal Adam in Africa"
+	},
+	{
+		"Percent": "0.77",
+		"Date": "217,000 years ago",
+		"Details": "Cooked food, flint and stone tools, Neandertals, prepared core technique"
+	},
+	{
+		"Percent": "0.78",
+		"Date": "313,000 years ago",
+		"Details": "Glacial began, Neanderthals thrive"
+	},
+	{
+		"Percent": "0.79",
+		"Date": "456,000 years ago",
+		"Details": "Homo heidelbergensis (ancestor of Neanderthals and Homo sapiens), burying dead, controlled fire"
+	},
+	{
+		"Percent": "0.8",
+		"Date": "671,000 years ago",
+		"Details": "Homo heidelbergensis and many other homonids arise, possible use of fire"
+	},
+	{
+		"Percent": "0.81",
+		"Date": "996,000 years ago",
+		"Details": "Homo antecessor common"
+	},
+	{
+		"Percent": "0.82",
+		"Date": "1.5 million years ago",
+		"Details": "Homo erectus first uses crude stone tools"
+	},
+	{
+		"Percent": "0.83",
+		"Date": "2.3 million years ago",
+		"Details": "Homo genus emerges from Australopithecus, modern Ice Ages begin"
+	},
+	{
+		"Percent": "0.84",
+		"Date": "3.5 million years ago",
+		"Details": "Isthmus of Panama forms, cooling oceans. Africa hits Europe, forming Mediterranean, Australopithecus"
+	},
+	{
+		"Percent": "0.85",
+		"Date": "5.4 million years ago",
+		"Details": "Africa hits Europe, forming Mediterranean. Messian salinity crisis"
+	},
+	{
+		"Percent": "0.86",
+		"Date": "8.4 million years ago",
+		"Details": "Himalayas start to rise, gorillas split off from hominids, owls, crows, all bird families"
+	},
+	{
+		"Percent": "0.87",
+		"Date": "13 million years ago",
+		"Details": "Africa collides with Asia, Greenland ice cap develops, wave of extinctions, permanent cooling, great apes"
+	},
+	{
+		"Percent": "0.88",
+		"Date": "21 million years ago",
+		"Details": "Ice cap began forming, grasses diversified"
+	},
+	{
+		"Percent": "0.89",
+		"Date": "34 million years ago",
+		"Details": "Ice began to build up in Antarctica, higher and narrow-nosed primates evolve"
+	},
+	{
+		"Percent": "0.9",
+		"Date": "55 million years ago",
+		"Details": "Asteroid impact kills most dinosaurs, PE warming, acidic oceans, mammals proliferated"
+	},
+	{
+		"Percent": "0.91",
+		"Date": "91 million years ago",
+		"Details": "Europe is island chain, sauropods grow huge, Tyrannosaurs dominant, birds replace pterosaurs, flowers"
+	},
+	{
+		"Percent": "0.92",
+		"Date": "152 million years ago",
+		"Details": "Pangea began to separate, ancestral Rocky Mountains form, large conifers dominate, ginkgos, dinosaurs"
+	},
+	{
+		"Percent": "0.93",
+		"Date": "257 million years ago",
+		"Details": "Pangea dominates, hot and dry, massive extinction wipes out nearly all life, winged insects and trees"
+	},
+	{
+		"Percent": "0.94",
+		"Date": "438 million years ago",
+		"Details": "Land vertibrates, sea scorpions, invertebrates diversify, green plants and fungi"
+	},
+	{
+		"Percent": "0.95",
+		"Date": "755 million years ago",
+		"Details": "Possible snowball earth, multicellular organisms followed by Cambrian explosion"
+	},
+	{
+		"Percent": "0.96",
+		"Date": "1.3 billion years ago",
+		"Details": "Complex single-celled life, primordial supercontinent, green algae colonies, stable cratons"
+	},
+	{
+		"Percent": "0.97",
+		"Date": "2.3 billion years ago",
+		"Details": "Cyanobacteria form, oxygen fills atmosphere, most life wiped out, several snowball Earth episodes"
+	},
+	{
+		"Percent": "0.98",
+		"Date": "4.2 billion years ago",
+		"Details": "Solar system coalesces from nebula, sun ignites, Earth forms, impact forms Moon, late heavy bombardment, life"
+	},
+	{
+		"Percent": "0.99",
+		"Date": "7.5 billion years ago",
+		"Details": "Milky Way forms from disc of matter, along with clusters and superclusters, full of heavy nova debris"
+	},
+	{
+		"Percent": "1",
+		"Date": "13.8 billion years ago",
+		"Details": "Big Bang, universe cools, first stars and quasars form, first generation of supernovas create heavy elements"
+	}
+]
